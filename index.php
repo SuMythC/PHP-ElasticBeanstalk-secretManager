@@ -1,4 +1,4 @@
 <?php
-echo "hello world, PHP.:)"
+echo "hello world, PHP.:)";
 echo "updated!!!";
 ?>
